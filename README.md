@@ -1,6 +1,7 @@
 Overview:
 
   The Crop Recommendation System is a web-based application that helps farmers and agricultural experts determine the most suitable crop for cultivation based on soil and environmental conditions. It leverages machine learning to analyze key parameters such as Nitrogen, Phosphorus, Potassium, Temperature, Humidity, pH Level, and Rainfall to provide accurate crop recommendations.
+  Dataset used: https://www.kaggle.com/datasets/atharvaingle/crop-recommendation-dataset
 
 Features:
 
